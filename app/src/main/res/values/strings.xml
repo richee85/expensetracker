@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="home">Home</string>
+    <string name="total">Total</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="save_type">Save Type</string>
+</resources>
